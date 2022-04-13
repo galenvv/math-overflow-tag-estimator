@@ -1,0 +1,1590 @@
+Test sample 0
+
+We suggest the following tags:
+finite-groups 6%
+langlands-conjectures 6%
+reference-request 8%
+gr.group-theory 10%
+automorphic-forms 11%
+reductive-groups 7%
+algebraic-number-theory 17%
+nt.number-theory 34%
+modular-forms 11%
+rt.representation-theory 34%
+
+True tags used: ['reductive-groups', 'galois-representations', 'langlands-conjectures']
+
+Test sample 1
+
+We suggest the following tags:
+ap.analysis-of-pdes 10%
+fourier-analysis 47%
+reference-request 11%
+fa.functional-analysis 34%
+integration 11%
+cv.complex-variables 13%
+fourier-transform 21%
+ca.classical-analysis-and-odes 30%
+real-analysis 28%
+harmonic-analysis 23%
+
+True tags used: ['reference-request', 'real-analysis', 'ca.classical-analysis-and-odes', 'fourier-analysis', 'fourier-transform']
+
+Test sample 2
+
+We suggest the following tags:
+reference-request 4%
+lebesgue-measure 8%
+geometric-measure-theory 9%
+descriptive-set-theory 9%
+pr.probability 14%
+set-theory 17%
+real-analysis 34%
+fa.functional-analysis 18%
+measure-theory 68%
+gn.general-topology 32%
+
+True tags used: ['real-analysis', 'examples']
+
+Test sample 3
+
+We suggest the following tags:
+random-walks 9%
+probability-distributions 13%
+reference-request 14%
+st.statistics 22%
+stochastic-calculus 35%
+stochastic-processes 76%
+brownian-motion 19%
+pr.probability 84%
+martingales 17%
+stochastic-differential-equations 16%
+
+True tags used: ['pr.probability', 'stochastic-processes', 'st.statistics', 'stochastic-differential-equations']
+
+Test sample 4
+
+We suggest the following tags:
+projective-geometry 3%
+dg.differential-geometry 3%
+complex-geometry 4%
+reference-request 4%
+homological-algebra 4%
+linear-algebra 5%
+rt.representation-theory 5%
+algebraic-groups 5%
+ac.commutative-algebra 6%
+ag.algebraic-geometry 68%
+
+True tags used: ['ag.algebraic-geometry', 'algebraic-groups']
+
+Test sample 5
+
+We suggest the following tags:
+abelian-varieties 5%
+divisors 6%
+cv.complex-variables 6%
+nt.number-theory 7%
+arithmetic-geometry 9%
+projective-geometry 10%
+birational-geometry 14%
+algebraic-curves 9%
+complex-geometry 26%
+ag.algebraic-geometry 92%
+
+True tags used: ['ag.algebraic-geometry']
+
+Test sample 6
+
+We suggest the following tags:
+ag.algebraic-geometry 3%
+prime-numbers 4%
+dg.differential-geometry 7%
+analytic-number-theory 10%
+algebraic-number-theory 6%
+modular-forms 6%
+quadratic-forms 9%
+nt.number-theory 50%
+reference-request 7%
+linear-algebra 4%
+
+True tags used: ['inequalities', 'quadratic-forms']
+
+Test sample 7
+
+We suggest the following tags:
+ac.commutative-algebra 5%
+finite-fields 5%
+algebraic-number-theory 5%
+finite-groups 6%
+prime-numbers 8%
+polynomials 7%
+diophantine-equations 8%
+gr.group-theory 14%
+co.combinatorics 15%
+nt.number-theory 51%
+
+True tags used: ['nt.number-theory', 'prime-numbers', 'abc-conjecture']
+
+Test sample 8
+
+We suggest the following tags:
+it.information-theory 5%
+stochastic-processes 6%
+random-graphs 7%
+probability-distributions 26%
+st.statistics 26%
+co.combinatorics 19%
+random-matrices 8%
+random-walks 19%
+reference-request 11%
+pr.probability 75%
+
+True tags used: ['nt.number-theory', 'pr.probability', 'measure-theory', 'computability-theory', 'computer-science']
+
+Test sample 9
+
+We suggest the following tags:
+stable-homotopy 9%
+infinity-categories 13%
+gr.group-theory 11%
+group-cohomology 9%
+reference-request 12%
+rt.representation-theory 14%
+homological-algebra 48%
+homotopy-theory 35%
+ct.category-theory 29%
+at.algebraic-topology 65%
+
+True tags used: ['at.algebraic-topology', 'finite-groups', 'principal-bundles', 'classifying-spaces', 'groupoids']
+
+Test sample 10
+
+We suggest the following tags:
+projective-geometry 2%
+homological-algebra 7%
+ag.algebraic-geometry 94%
+at.algebraic-topology 5%
+cohomology 4%
+complex-geometry 7%
+gr.group-theory 3%
+rt.representation-theory 4%
+ac.commutative-algebra 6%
+algebraic-groups 18%
+
+True tags used: ['ag.algebraic-geometry', 'algebraic-groups']
+
+Test sample 11
+
+We suggest the following tags:
+reference-request 3%
+real-analysis 7%
+matrices 3%
+cv.complex-variables 4%
+ca.classical-analysis-and-odes 4%
+co.combinatorics 4%
+linear-algebra 7%
+nt.number-theory 14%
+fa.functional-analysis 9%
+polynomials 13%
+
+True tags used: ['nt.number-theory', 'polynomials']
+
+Test sample 12
+
+We suggest the following tags:
+brownian-motion 8%
+measure-concentration 10%
+martingales 10%
+gaussian 10%
+probability-distributions 39%
+stochastic-processes 48%
+stochastic-calculus 13%
+random-walks 15%
+st.statistics 42%
+pr.probability 96%
+
+True tags used: ['pr.probability', 'free-probability']
+
+Test sample 13
+
+We suggest the following tags:
+additive-combinatorics 5%
+partitions 7%
+binomial-coefficients 12%
+pr.probability 13%
+asymptotics 6%
+co.combinatorics 71%
+sequences-and-series 21%
+nt.number-theory 19%
+reference-request 15%
+recurrences 9%
+
+True tags used: ['co.combinatorics', 'it.information-theory', 'recreational-mathematics', 'coding-theory', 'puzzle']
+
+Test sample 14
+
+We suggest the following tags:
+symmetric-groups 5%
+permutations 5%
+rt.representation-theory 6%
+sequences-and-series 7%
+pr.probability 16%
+co.combinatorics 38%
+gr.group-theory 38%
+nt.number-theory 12%
+reference-request 15%
+finite-groups 12%
+
+True tags used: ['reference-request', 'symmetric-groups', 'characters']
+
+Test sample 15
+
+We suggest the following tags:
+reference-request 2%
+graph-theory 2%
+sequences-and-series 3%
+discrete-geometry 2%
+partitions 3%
+computational-complexity 3%
+algorithms 5%
+nt.number-theory 16%
+co.combinatorics 76%
+set-theory 4%
+
+True tags used: ['co.combinatorics', 'hypergraph']
+
+Test sample 16
+
+We suggest the following tags:
+ds.dynamical-systems 3%
+measure-theory 3%
+probability-distributions 4%
+reference-request 9%
+st.statistics 4%
+real-analysis 6%
+co.combinatorics 8%
+pr.probability 12%
+mg.metric-geometry 9%
+ca.classical-analysis-and-odes 4%
+
+True tags used: ['reference-request', 'fa.functional-analysis', 'sequences-and-series', 'divergent-series']
+
+Test sample 17
+
+We suggest the following tags:
+free-probability 6%
+matrix-analysis 12%
+probability-distributions 16%
+measure-concentration 20%
+random-matrices 81%
+pr.probability 78%
+st.statistics 44%
+eigenvalues 33%
+matrices 30%
+linear-algebra 43%
+
+True tags used: ['pr.probability', 'eigenvalues', 'random-matrices']
+
+Test sample 18
+
+We suggest the following tags:
+limits-and-convergence 3%
+descriptive-set-theory 3%
+ct.category-theory 5%
+real-analysis 6%
+lo.logic 8%
+pr.probability 16%
+reference-request 20%
+fa.functional-analysis 8%
+set-theory 27%
+measure-theory 40%
+
+True tags used: ['real-analysis', 'lebesgue-measure', 'measurable-functions']
+
+Test sample 19
+
+We suggest the following tags:
+banach-algebras 6%
+oa.operator-algebras 7%
+reference-request 7%
+hilbert-spaces 10%
+real-analysis 11%
+gn.general-topology 10%
+operator-theory 11%
+sobolev-spaces 14%
+fa.functional-analysis 91%
+banach-spaces 61%
+
+True tags used: ['fa.functional-analysis', 'banach-spaces', 'sobolev-spaces', 'schwartz-distributions', 'quotient-space']
+
+Test sample 20
+
+We suggest the following tags:
+binomial-coefficients 4%
+nt.number-theory 6%
+ca.classical-analysis-and-odes 6%
+inequalities 6%
+asymptotics 6%
+sequences-and-series 22%
+real-analysis 8%
+co.combinatorics 36%
+reference-request 8%
+pr.probability 11%
+
+True tags used: ['polynomials', 'sequences-and-series']
+
+Test sample 21
+
+We suggest the following tags:
+infinite-combinatorics 2%
+posets 6%
+symmetric-groups 3%
+graph-colorings 5%
+gr.group-theory 40%
+finite-groups 20%
+graph-theory 82%
+co.combinatorics 63%
+reference-request 5%
+rt.representation-theory 9%
+
+True tags used: ['gr.group-theory', 'graph-theory', 'finite-groups']
+
+Test sample 22
+
+We suggest the following tags:
+axiom-of-choice 5%
+co.combinatorics 6%
+ct.category-theory 6%
+set-theory 89%
+computability-theory 11%
+forcing 8%
+lo.logic 81%
+large-cardinals 22%
+model-theory 21%
+infinite-combinatorics 8%
+
+True tags used: ['set-theory', 'lo.logic']
+
+Test sample 23
+
+We suggest the following tags:
+ra.rings-and-algebras 3%
+dg.differential-geometry 3%
+arithmetic-geometry 3%
+projective-geometry 3%
+reference-request 9%
+linear-algebra 4%
+ac.commutative-algebra 13%
+nt.number-theory 8%
+algebraic-number-theory 5%
+ag.algebraic-geometry 44%
+
+True tags used: ['ag.algebraic-geometry', 'reference-request', 'divisors', 'smoothness']
+
+Test sample 24
+
+We suggest the following tags:
+modular-forms 6%
+diophantine-equations 6%
+algebraic-number-theory 6%
+cv.complex-variables 9%
+co.combinatorics 13%
+polynomials 47%
+analytic-number-theory 19%
+nt.number-theory 53%
+reference-request 13%
+sequences-and-series 9%
+
+True tags used: ['nt.number-theory', 'analytic-number-theory', 'zeta-functions']
+
+Test sample 25
+
+We suggest the following tags:
+fa.functional-analysis 6%
+determinants 7%
+co.combinatorics 7%
+random-matrices 8%
+eigenvalues 15%
+rt.representation-theory 8%
+linear-algebra 67%
+matrix-theory 11%
+matrices 60%
+matrix-analysis 16%
+
+True tags used: ['matrices', 'operator-theory', 'banach-spaces', 'norms', 'operator-norms']
+
+Test sample 26
+
+We suggest the following tags:
+axioms 3%
+proof-theory 4%
+ct.category-theory 5%
+forcing 6%
+computability-theory 14%
+soft-question 7%
+model-theory 22%
+lo.logic 91%
+large-cardinals 22%
+set-theory 79%
+
+True tags used: ['lo.logic', 'decidability']
+
+Test sample 27
+
+We suggest the following tags:
+semi-riemannian-geometry 4%
+riemann-surfaces 5%
+kahler-manifolds 25%
+riemannian-geometry 88%
+complex-geometry 55%
+sg.symplectic-geometry 8%
+smooth-manifolds 6%
+curvature 16%
+dg.differential-geometry 98%
+differential-topology 6%
+
+True tags used: ['dg.differential-geometry', 'kahler-manifolds', 'ricci-curvature']
+
+Test sample 28
+
+We suggest the following tags:
+gt.geometric-topology 8%
+convex-geometry 8%
+gn.general-topology 8%
+reference-request 8%
+ag.algebraic-geometry 10%
+co.combinatorics 11%
+convex-polytopes 14%
+discrete-geometry 32%
+mg.metric-geometry 60%
+graph-theory 14%
+
+True tags used: ['matrices', 'combinatorial-optimization', 'plane-geometry', 'real-algebraic-geometry', 'grassmannians']
+
+Test sample 29
+
+We suggest the following tags:
+homotopy-theory 5%
+algebraic-groups 5%
+reference-request 10%
+etale-cohomology 6%
+at.algebraic-topology 23%
+ac.commutative-algebra 6%
+homological-algebra 19%
+rt.representation-theory 11%
+cohomology 21%
+ag.algebraic-geometry 50%
+
+True tags used: ['gr.group-theory', 'group-cohomology', 'root-systems', 'weyl-group']
+
+Test sample 30
+
+We suggest the following tags:
+reference-request 9%
+rt.representation-theory 10%
+ra.rings-and-algebras 10%
+banach-spaces 17%
+banach-algebras 24%
+von-neumann-algebras 25%
+fa.functional-analysis 77%
+oa.operator-algebras 81%
+c-star-algebras 59%
+operator-theory 33%
+
+True tags used: ['oa.operator-algebras', 'operator-theory', 'c-star-algebras', 'noncommutative-geometry']
+
+Test sample 31
+
+We suggest the following tags:
+monoidal-categories 3%
+set-theory 3%
+limits-and-colimits 3%
+infinity-categories 3%
+reference-request 19%
+ct.category-theory 86%
+soft-question 8%
+higher-category-theory 6%
+lo.logic 6%
+topos-theory 6%
+
+True tags used: ['ct.category-theory']
+
+Test sample 32
+
+We suggest the following tags:
+recurrences 4%
+binomial-coefficients 5%
+asymptotics 5%
+diophantine-equations 6%
+reference-request 9%
+prime-numbers 17%
+co.combinatorics 15%
+sequences-and-series 18%
+nt.number-theory 63%
+analytic-number-theory 26%
+
+True tags used: ['reference-request', 'nt.number-theory', 'prime-numbers']
+
+Test sample 33
+
+We suggest the following tags:
+mg.metric-geometry 5%
+riemannian-geometry 5%
+analytic-number-theory 20%
+ca.classical-analysis-and-odes 8%
+cv.complex-variables 7%
+real-analysis 7%
+nt.number-theory 31%
+dg.differential-geometry 6%
+reference-request 13%
+co.combinatorics 6%
+
+True tags used: ['real-analysis', 'brownian-motion', 'potential-theory']
+
+Test sample 34
+
+We suggest the following tags:
+differential-operators 7%
+dg.differential-geometry 10%
+eigenvalues 7%
+fa.functional-analysis 61%
+mp.mathematical-physics 14%
+operator-theory 17%
+reference-request 22%
+ap.analysis-of-pdes 67%
+elliptic-pde 20%
+sp.spectral-theory 41%
+
+True tags used: ['fa.functional-analysis', 'ap.analysis-of-pdes', 'mp.mathematical-physics', 'sp.spectral-theory', 'schrodinger-operators']
+
+Test sample 35
+
+We suggest the following tags:
+zeta-functions 9%
+special-functions 10%
+riemann-hypothesis 14%
+analytic-number-theory 68%
+real-analysis 14%
+nt.number-theory 48%
+cv.complex-variables 41%
+sequences-and-series 16%
+riemann-zeta-function 74%
+ca.classical-analysis-and-odes 17%
+
+True tags used: ['analytic-number-theory', 'cv.complex-variables', 'riemann-zeta-function', 'analytic-continuation', 'mobius-inversion']
+
+Test sample 36
+
+We suggest the following tags:
+polynomials 6%
+finite-fields 10%
+matrix-theory 7%
+rt.representation-theory 11%
+co.combinatorics 25%
+matrices 72%
+ac.commutative-algebra 22%
+linear-algebra 75%
+determinants 16%
+ra.rings-and-algebras 18%
+
+True tags used: ['ac.commutative-algebra', 'ra.rings-and-algebras', 'matrices', 'modules']
+
+Test sample 37
+
+We suggest the following tags:
+fibre-bundles 4%
+differential-topology 5%
+sg.symplectic-geometry 7%
+complex-geometry 36%
+ag.algebraic-geometry 53%
+vector-bundles 16%
+at.algebraic-topology 11%
+kahler-manifolds 8%
+dg.differential-geometry 44%
+gt.geometric-topology 5%
+
+True tags used: ['ag.algebraic-geometry', 'vector-bundles', 'resolution-of-singularities']
+
+Test sample 38
+
+We suggest the following tags:
+simplicial-complexes 2%
+cw-complexes 3%
+mg.metric-geometry 3%
+reference-request 3%
+gn.general-topology 26%
+gt.geometric-topology 28%
+homotopy-theory 5%
+at.algebraic-topology 65%
+simplicial-stuff 4%
+ag.algebraic-geometry 11%
+
+True tags used: ['at.algebraic-topology']
+
+Test sample 39
+
+We suggest the following tags:
+infinity-categories 4%
+operator-theory 6%
+von-neumann-algebras 5%
+c-star-algebras 6%
+banach-algebras 7%
+fa.functional-analysis 47%
+banach-spaces 15%
+reference-request 17%
+oa.operator-algebras 17%
+ct.category-theory 19%
+
+True tags used: ['lo.logic', 'oa.operator-algebras', 'model-theory', 'banach-algebras', 'ultrapowers']
+
+Test sample 40
+
+We suggest the following tags:
+lo.logic 2%
+mg.metric-geometry 2%
+linear-algebra 3%
+real-analysis 5%
+co.combinatorics 6%
+nt.number-theory 4%
+reference-request 8%
+set-theory 3%
+
+True tags used: ['dg.differential-geometry', 'harmonic-analysis', 'signal-analysis', 'wavelets']
+
+Test sample 41
+
+We suggest the following tags:
+set-theory 6%
+lo.logic 6%
+infinity-categories 6%
+ct.category-theory 68%
+reference-request 13%
+topos-theory 7%
+ag.algebraic-geometry 8%
+homotopy-theory 7%
+higher-category-theory 8%
+at.algebraic-topology 8%
+
+True tags used: ['ct.category-theory', 'locally-presentable-categories', 'accessible-categories']
+
+Test sample 42
+
+We suggest the following tags:
+automorphism-groups 4%
+coxeter-groups 5%
+topological-groups 5%
+lie-groups 6%
+rt.representation-theory 15%
+geometric-group-theory 19%
+reference-request 9%
+gr.group-theory 97%
+finite-groups 50%
+co.combinatorics 7%
+
+True tags used: ['reference-request', 'gr.group-theory', 'universal-algebra']
+
+Test sample 43
+
+We suggest the following tags:
+at.algebraic-topology 8%
+reference-request 8%
+dg.differential-geometry 8%
+group-actions 8%
+lie-algebras 13%
+algebraic-groups 9%
+rt.representation-theory 28%
+lie-groups 37%
+gr.group-theory 25%
+gt.geometric-topology 9%
+
+True tags used: ['sg.symplectic-geometry', 'connections', 'symmetric-spaces']
+
+Test sample 44
+
+We suggest the following tags:
+riemann-surfaces 5%
+lie-groups 6%
+projective-geometry 9%
+at.algebraic-topology 9%
+reference-request 8%
+sg.symplectic-geometry 7%
+complex-geometry 12%
+dg.differential-geometry 14%
+ag.algebraic-geometry 40%
+gt.geometric-topology 15%
+
+True tags used: ['sg.symplectic-geometry', 'gromov-witten-theory', 'pseudo-holomorphic-curves']
+
+Test sample 45
+
+We suggest the following tags:
+partitions 2%
+gr.group-theory 2%
+co.combinatorics 31%
+analytic-number-theory 3%
+discrete-geometry 6%
+nt.number-theory 13%
+prime-numbers 2%
+mg.metric-geometry 11%
+reference-request 17%
+soft-question 3%
+
+True tags used: ['graph-theory', 'extremal-graph-theory']
+
+Test sample 46
+
+We suggest the following tags:
+integration 11%
+reference-request 17%
+sobolev-spaces 12%
+harmonic-analysis 15%
+fractional-calculus 18%
+real-analysis 18%
+ca.classical-analysis-and-odes 57%
+elliptic-pde 36%
+ap.analysis-of-pdes 80%
+fa.functional-analysis 83%
+
+True tags used: ['fa.functional-analysis', 'ap.analysis-of-pdes', 'ca.classical-analysis-and-odes', 'harmonic-analysis', 'fourier-analysis']
+
+Test sample 47
+
+We suggest the following tags:
+ag.algebraic-geometry 6%
+stable-homotopy 6%
+infinity-categories 6%
+cohomology 10%
+gt.geometric-topology 15%
+homological-algebra 18%
+ct.category-theory 11%
+reference-request 25%
+at.algebraic-topology 63%
+homotopy-theory 33%
+
+True tags used: ['at.algebraic-topology', 'gt.geometric-topology', 'homotopy-theory', 'algebraic-k-theory']
+
+Test sample 48
+
+We suggest the following tags:
+prime-numbers 4%
+ca.classical-analysis-and-odes 4%
+sequences-and-series 4%
+linear-algebra 5%
+real-analysis 5%
+co.combinatorics 7%
+analytic-number-theory 5%
+nt.number-theory 25%
+reference-request 7%
+polynomials 25%
+
+True tags used: ['polynomials', 'inequalities']
+
+Test sample 49
+
+We suggest the following tags:
+real-analysis 2%
+soft-question 3%
+pr.probability 3%
+ca.classical-analysis-and-odes 4%
+analytic-number-theory 5%
+co.combinatorics 5%
+fa.functional-analysis 4%
+nt.number-theory 10%
+reference-request 26%
+rt.representation-theory 4%
+
+True tags used: ['intersection-theory', 'grothendieck-riemann-roch']
+
+Test sample 50
+
+We suggest the following tags:
+integration 6%
+measure-theory 11%
+limits-and-convergence 12%
+stochastic-processes 12%
+ca.classical-analysis-and-odes 13%
+probability-distributions 14%
+real-analysis 17%
+st.statistics 16%
+fa.functional-analysis 15%
+pr.probability 46%
+
+True tags used: ['probability-distributions', 'limits-and-convergence', 'random-functions']
+
+Test sample 51
+
+We suggest the following tags:
+divisors-multiples 3%
+finite-fields 4%
+prime-gaps 3%
+galois-theory 4%
+computational-number-theory 5%
+algebraic-number-theory 18%
+diophantine-equations 9%
+analytic-number-theory 30%
+nt.number-theory 97%
+prime-numbers 75%
+
+True tags used: ['nt.number-theory', 'analytic-number-theory', 'prime-numbers', 'factorization']
+
+Test sample 52
+
+We suggest the following tags:
+elliptic-pde 4%
+differential-equations 5%
+nonlinear-optimization 5%
+fa.functional-analysis 8%
+real-analysis 8%
+oc.optimization-and-control 9%
+ca.classical-analysis-and-odes 10%
+reference-request 8%
+pr.probability 8%
+ap.analysis-of-pdes 14%
+
+True tags used: ['oc.optimization-and-control', 'hilbert-spaces', 'nonlinear-optimization', 'least-squares']
+
+Test sample 53
+
+We suggest the following tags:
+finite-groups 6%
+reference-request 6%
+lie-algebras 8%
+rt.representation-theory 41%
+homological-algebra 20%
+gr.group-theory 9%
+lie-groups 8%
+algebraic-groups 9%
+ag.algebraic-geometry 12%
+at.algebraic-topology 12%
+
+True tags used: ['gr.group-theory', 'lie-groups', 'group-cohomology', 'algebraic-k-theory', 'scissors-congruence']
+
+Test sample 54
+
+We suggest the following tags:
+compactness 6%
+c-star-algebras 8%
+topological-vector-spaces 12%
+reference-request 10%
+at.algebraic-topology 8%
+topological-groups 13%
+fa.functional-analysis 54%
+oa.operator-algebras 15%
+banach-spaces 16%
+gn.general-topology 59%
+
+True tags used: ['gn.general-topology']
+
+Test sample 55
+
+We suggest the following tags:
+ct.category-theory 3%
+co.combinatorics 3%
+reference-request 4%
+matrices 7%
+ra.rings-and-algebras 17%
+ac.commutative-algebra 13%
+ag.algebraic-geometry 32%
+homological-algebra 16%
+linear-algebra 20%
+rt.representation-theory 17%
+
+True tags used: ['linear-algebra', 'ra.rings-and-algebras', 'tensor-products']
+
+Test sample 56
+
+We suggest the following tags:
+knot-theory 9%
+3-manifolds 10%
+at.algebraic-topology 25%
+gn.general-topology 22%
+gt.geometric-topology 40%
+hyperbolic-geometry 11%
+mg.metric-geometry 41%
+ag.algebraic-geometry 10%
+discrete-geometry 12%
+dg.differential-geometry 11%
+
+True tags used: ['gt.geometric-topology', '4-manifolds', 'braid-groups', 'orbifolds']
+
+Test sample 57
+
+We suggest the following tags:
+reference-request 9%
+model-categories 10%
+stable-homotopy 11%
+higher-category-theory 18%
+homological-algebra 11%
+simplicial-stuff 11%
+infinity-categories 41%
+at.algebraic-topology 47%
+homotopy-theory 49%
+ct.category-theory 76%
+
+True tags used: ['at.algebraic-topology', 'homotopy-theory', 'stable-homotopy']
+
+Test sample 58
+
+We suggest the following tags:
+polynomials 2%
+elliptic-pde 3%
+analytic-number-theory 3%
+real-analysis 5%
+ap.analysis-of-pdes 10%
+nt.number-theory 27%
+ca.classical-analysis-and-odes 18%
+cv.complex-variables 7%
+diophantine-equations 22%
+differential-equations 7%
+
+True tags used: ['diophantine-equations', 'trigonometric-polynomials']
+
+Test sample 59
+
+We suggest the following tags:
+ag.algebraic-geometry 6%
+cv.complex-variables 6%
+complex-geometry 7%
+gn.general-topology 8%
+mg.metric-geometry 16%
+dg.differential-geometry 22%
+gt.geometric-topology 16%
+riemannian-geometry 9%
+reference-request 16%
+at.algebraic-topology 14%
+
+True tags used: ['at.algebraic-topology', 'gn.general-topology', 'gt.geometric-topology']
+
+Test sample 60
+
+We suggest the following tags:
+geometric-probability 5%
+expectation 6%
+random-walks 9%
+gaussian 8%
+stochastic-processes 11%
+random-matrices 11%
+measure-concentration 11%
+probability-distributions 61%
+st.statistics 52%
+pr.probability 96%
+
+True tags used: ['reference-request']
+
+Test sample 61
+
+We suggest the following tags:
+spectral-graph-theory 4%
+infinite-combinatorics 6%
+mg.metric-geometry 4%
+reference-request 7%
+planar-graphs 5%
+extremal-graph-theory 7%
+discrete-geometry 7%
+graph-colorings 12%
+co.combinatorics 39%
+graph-theory 90%
+
+True tags used: ['graph-theory', 'computability-theory']
+
+Test sample 62
+
+We suggest the following tags:
+ct.category-theory 15%
+fa.functional-analysis 5%
+reference-request 16%
+
+True tags used: ['ct.category-theory', 'soft-question', 'higher-category-theory', 'fukaya-category']
+
+Test sample 63
+
+We suggest the following tags:
+elliptic-pde 8%
+ap.analysis-of-pdes 10%
+analytic-number-theory 10%
+fa.functional-analysis 10%
+real-analysis 12%
+cv.complex-variables 13%
+ca.classical-analysis-and-odes 15%
+reference-request 16%
+dg.differential-geometry 16%
+nt.number-theory 20%
+
+True tags used: ['analytic-number-theory', 'prime-numbers', 'riemann-hypothesis']
+
+Test sample 64
+
+We suggest the following tags:
+geometric-measure-theory 8%
+reference-request 9%
+st.statistics 10%
+metric-spaces 17%
+measure-theory 34%
+mg.metric-geometry 29%
+optimal-transportation 26%
+probability-distributions 12%
+fa.functional-analysis 34%
+pr.probability 60%
+
+True tags used: ['pr.probability', 'measure-theory', 'optimal-transportation']
+
+Test sample 65
+
+We suggest the following tags:
+geometric-measure-theory 3%
+lebesgue-measure 4%
+pr.probability 4%
+fa.functional-analysis 6%
+descriptive-set-theory 17%
+lo.logic 18%
+gn.general-topology 28%
+measure-theory 73%
+real-analysis 17%
+set-theory 81%
+
+True tags used: ['real-analysis', 'set-theory']
+
+Test sample 66
+
+We suggest the following tags:
+fa.functional-analysis 4%
+finite-groups 4%
+gr.group-theory 7%
+lie-algebras 6%
+c-star-algebras 10%
+reference-request 12%
+homological-algebra 23%
+oa.operator-algebras 15%
+rt.representation-theory 50%
+ra.rings-and-algebras 24%
+
+True tags used: ['rt.representation-theory']
+
+Test sample 67
+
+We suggest the following tags:
+ca.classical-analysis-and-odes 5%
+nonlinear-optimization 5%
+real-analysis 5%
+co.combinatorics 6%
+st.statistics 6%
+oc.optimization-and-control 7%
+reference-request 7%
+fa.functional-analysis 7%
+pr.probability 15%
+mg.metric-geometry 7%
+
+True tags used: ['gr.group-theory', 'rt.representation-theory', 'lie-groups', 'exceptional-groups']
+
+Test sample 68
+
+We suggest the following tags:
+complex-geometry 4%
+rt.representation-theory 4%
+nt.number-theory 5%
+matrices 5%
+riemannian-geometry 8%
+fa.functional-analysis 8%
+cv.complex-variables 8%
+reference-request 6%
+linear-algebra 9%
+dg.differential-geometry 22%
+
+True tags used: ['dg.differential-geometry', 'riemannian-geometry', 'matrix-analysis', 'matrix-theory', 'multilinear-algebra']
+
+Test sample 69
+
+We suggest the following tags:
+etale-cohomology 7%
+modular-forms 7%
+elliptic-curves 7%
+at.algebraic-topology 8%
+cohomology 11%
+reference-request 17%
+ag.algebraic-geometry 41%
+algebraic-number-theory 12%
+arithmetic-geometry 13%
+nt.number-theory 26%
+
+True tags used: ['nt.number-theory', 'arithmetic-geometry', 'iwasawa-theory', 'perfectoid-spaces']
+
+Test sample 70
+
+We suggest the following tags:
+computational-complexity 2%
+large-cardinals 2%
+model-theory 5%
+soft-question 7%
+lo.logic 41%
+nt.number-theory 12%
+set-theory 14%
+co.combinatorics 13%
+reference-request 11%
+computability-theory 12%
+
+True tags used: ['computability-theory']
+
+Test sample 71
+
+We suggest the following tags:
+ra.rings-and-algebras 3%
+ag.algebraic-geometry 3%
+finite-groups 4%
+partitions 4%
+gr.group-theory 4%
+symmetric-functions 4%
+rt.representation-theory 35%
+co.combinatorics 51%
+polynomials 27%
+reference-request 19%
+
+True tags used: ['co.combinatorics', 'rt.representation-theory', 'symmetric-functions']
+
+Test sample 72
+
+We suggest the following tags:
+real-analysis 11%
+sp.spectral-theory 13%
+eigenvalues 48%
+pr.probability 12%
+oc.optimization-and-control 23%
+fa.functional-analysis 38%
+convex-optimization 14%
+matrices 19%
+matrix-analysis 13%
+linear-algebra 29%
+
+True tags used: ['linear-algebra', 'matrices', 'eigenvalues']
+
+Test sample 73
+
+We suggest the following tags:
+lo.logic 3%
+oa.operator-algebras 3%
+ct.category-theory 9%
+homological-algebra 9%
+finite-groups 3%
+ra.rings-and-algebras 11%
+co.combinatorics 3%
+gr.group-theory 12%
+rt.representation-theory 52%
+reference-request 27%
+
+True tags used: ['rt.representation-theory', 'ra.rings-and-algebras', 'terminology', 'noncommutative-rings']
+
+Test sample 74
+
+We suggest the following tags:
+reference-request 7%
+cv.complex-variables 7%
+sequences-and-series 7%
+modular-forms 10%
+algebraic-number-theory 17%
+nt.number-theory 85%
+riemann-zeta-function 41%
+riemann-hypothesis 18%
+prime-numbers 27%
+analytic-number-theory 68%
+
+True tags used: ['nt.number-theory', 'analytic-number-theory', 'finite-fields', 'riemann-zeta-function', 'riemann-hypothesis']
+
+Test sample 75
+
+We suggest the following tags:
+compactness 6%
+measure-theory 9%
+topological-vector-spaces 9%
+hilbert-spaces 7%
+operator-theory 7%
+oa.operator-algebras 9%
+banach-spaces 36%
+set-theory 11%
+gn.general-topology 52%
+fa.functional-analysis 75%
+
+True tags used: ['gn.general-topology', 'descriptive-set-theory', 'dimension-theory']
+
+Test sample 76
+
+We suggest the following tags:
+homological-algebra 6%
+von-neumann-algebras 7%
+oa.operator-algebras 25%
+operator-theory 10%
+fa.functional-analysis 18%
+ct.category-theory 8%
+rt.representation-theory 30%
+reference-request 11%
+c-star-algebras 8%
+ra.rings-and-algebras 14%
+
+True tags used: ['rt.representation-theory', 'lie-algebras', 'mp.mathematical-physics', 'vertex-algebras']
+
+Test sample 77
+
+We suggest the following tags:
+planar-graphs 3%
+knot-theory 6%
+mg.metric-geometry 10%
+extremal-graph-theory 4%
+graph-colorings 12%
+discrete-geometry 10%
+graph-theory 95%
+gt.geometric-topology 11%
+reference-request 5%
+co.combinatorics 28%
+
+True tags used: ['graph-theory', 'flows']
+
+Test sample 78
+
+We suggest the following tags:
+real-analysis 6%
+von-neumann-algebras 6%
+reference-request 8%
+hilbert-spaces 10%
+banach-algebras 9%
+banach-spaces 12%
+fa.functional-analysis 68%
+oa.operator-algebras 36%
+operator-theory 19%
+c-star-algebras 18%
+
+True tags used: ['fa.functional-analysis', 'oa.operator-algebras', 'c-star-algebras', 'positivity', 'complete-positivity']
+
+Test sample 79
+
+We suggest the following tags:
+prime-numbers 4%
+ca.classical-analysis-and-odes 10%
+real-analysis 11%
+sequences-and-series 8%
+linear-algebra 4%
+co.combinatorics 7%
+fa.functional-analysis 11%
+nt.number-theory 25%
+reference-request 14%
+analytic-number-theory 8%
+
+True tags used: ['nt.number-theory', 'congruences']
+
+Test sample 80
+
+We suggest the following tags:
+reductive-groups 8%
+homological-algebra 14%
+ra.rings-and-algebras 10%
+lie-groups 10%
+ac.commutative-algebra 10%
+finite-groups 17%
+ag.algebraic-geometry 57%
+algebraic-groups 44%
+rt.representation-theory 45%
+gr.group-theory 40%
+
+True tags used: ['ag.algebraic-geometry', 'algebraic-groups', 'invariant-theory', 'geometric-invariant-theory']
+
+Test sample 81
+
+We suggest the following tags:
+vector-bundles 5%
+riemann-surfaces 7%
+projective-geometry 8%
+kahler-manifolds 5%
+ag.algebraic-geometry 78%
+complex-geometry 32%
+gt.geometric-topology 5%
+birational-geometry 7%
+dg.differential-geometry 12%
+at.algebraic-topology 6%
+
+True tags used: ['ag.algebraic-geometry', 'complex-geometry', 'abelian-varieties']
+
+Test sample 82
+
+We suggest the following tags:
+reference-request 5%
+gn.general-topology 5%
+simplicial-complexes 6%
+knot-theory 5%
+graph-theory 6%
+homological-algebra 6%
+at.algebraic-topology 44%
+gt.geometric-topology 15%
+co.combinatorics 16%
+homotopy-theory 7%
+
+True tags used: ['co.combinatorics', 'at.algebraic-topology', 'order-theory', 'lattice-theory', 'euler-characteristics']
+
+Test sample 83
+
+We suggest the following tags:
+ag.algebraic-geometry 4%
+rt.representation-theory 5%
+lie-algebras 5%
+sg.symplectic-geometry 5%
+mp.mathematical-physics 5%
+fa.functional-analysis 11%
+reference-request 9%
+lie-groups 6%
+riemannian-geometry 6%
+dg.differential-geometry 36%
+
+True tags used: ['lie-groups', 'lie-algebras']
+
+Test sample 84
+
+We suggest the following tags:
+pr.probability 4%
+reference-request 5%
+ac.commutative-algebra 5%
+integration 6%
+cv.complex-variables 6%
+nt.number-theory 11%
+polynomials 10%
+real-analysis 8%
+ca.classical-analysis-and-odes 6%
+ag.algebraic-geometry 15%
+
+True tags used: ['pr.probability']
+
+Test sample 85
+
+We suggest the following tags:
+oa.operator-algebras 6%
+differential-operators 6%
+dg.differential-geometry 12%
+mp.mathematical-physics 16%
+sp.spectral-theory 15%
+operator-theory 17%
+elliptic-pde 21%
+reference-request 70%
+fa.functional-analysis 60%
+ap.analysis-of-pdes 47%
+
+True tags used: ['reference-request', 'ap.analysis-of-pdes', 'elliptic-pde', 'linear-pde', 'schrodinger-operators']
+
+Test sample 86
+
+We suggest the following tags:
+riemann-zeta-function 5%
+ap.analysis-of-pdes 7%
+differential-equations 6%
+sequences-and-series 8%
+special-functions 8%
+fa.functional-analysis 14%
+cv.complex-variables 17%
+real-analysis 41%
+integration 45%
+ca.classical-analysis-and-odes 61%
+
+True tags used: ['real-analysis', 'ca.classical-analysis-and-odes', 'integration', 'periods']
+
+Test sample 87
+
+We suggest the following tags:
+lie-algebras 3%
+mp.mathematical-physics 3%
+vector-bundles 4%
+sg.symplectic-geometry 4%
+at.algebraic-topology 6%
+rt.representation-theory 16%
+homological-algebra 7%
+dg.differential-geometry 11%
+ag.algebraic-geometry 30%
+reference-request 38%
+
+True tags used: ['ds.dynamical-systems', 'definitions', 'complex-dynamics', 'symbolic-dynamics']
+
+Test sample 88
+
+We suggest the following tags:
+special-functions 6%
+harmonic-analysis 7%
+differential-equations 8%
+pr.probability 11%
+cv.complex-variables 13%
+ap.analysis-of-pdes 11%
+fa.functional-analysis 28%
+integration 55%
+real-analysis 30%
+ca.classical-analysis-and-odes 55%
+
+True tags used: ['reference-request', 'integration', 'special-functions', 'bessel-functions']
+
+Test sample 89
+
+We suggest the following tags:
+differential-equations 3%
+measure-theory 4%
+sobolev-spaces 4%
+pr.probability 4%
+ap.analysis-of-pdes 8%
+ca.classical-analysis-and-odes 36%
+real-analysis 50%
+cv.complex-variables 10%
+fa.functional-analysis 47%
+integration 18%
+
+True tags used: ['fa.functional-analysis', 'real-analysis', 'inequalities', 'calculus-of-variations']
+
+Test sample 90
+
+We suggest the following tags:
+sg.symplectic-geometry 4%
+kahler-manifolds 6%
+birational-geometry 6%
+gt.geometric-topology 5%
+riemann-surfaces 4%
+at.algebraic-topology 5%
+projective-geometry 6%
+complex-geometry 41%
+ag.algebraic-geometry 72%
+dg.differential-geometry 21%
+
+True tags used: ['ag.algebraic-geometry', 'complex-geometry', 'chern-classes']
+
+Test sample 91
+
+We suggest the following tags:
+measure-theory 5%
+random-walks 8%
+st.statistics 27%
+stochastic-processes 68%
+martingales 10%
+stochastic-calculus 19%
+brownian-motion 9%
+pr.probability 93%
+reference-request 9%
+probability-distributions 31%
+
+True tags used: ['pr.probability', 'stochastic-processes', 'probability-distributions']
+
+Test sample 92
+
+We suggest the following tags:
+homotopy-theory 5%
+set-theory 5%
+limits-and-colimits 7%
+gn.general-topology 10%
+infinity-categories 9%
+monoidal-categories 8%
+higher-category-theory 10%
+reference-request 10%
+ct.category-theory 80%
+fa.functional-analysis 11%
+
+True tags used: ['ct.category-theory', 'homotopy-theory', 'cartesian-closed-categories']
+
+Test sample 93
+
+We suggest the following tags:
+reference-request 4%
+oc.optimization-and-control 4%
+polynomials 5%
+linear-algebra 5%
+computational-complexity 22%
+co.combinatorics 47%
+combinatorial-optimization 7%
+pr.probability 6%
+graph-theory 18%
+algorithms 30%
+
+True tags used: ['co.combinatorics', 'algorithms', 'computational-complexity', 'formal-languages']
+
+Test sample 94
+
+We suggest the following tags:
+galois-theory 7%
+algebraic-number-theory 8%
+ra.rings-and-algebras 11%
+ac.commutative-algebra 13%
+nt.number-theory 26%
+linear-algebra 32%
+finite-fields 16%
+rt.representation-theory 32%
+ag.algebraic-geometry 17%
+matrices 17%
+
+True tags used: ['linear-algebra', 'ra.rings-and-algebras', 'matrices', 'p-adic-numbers']
+
+Test sample 95
+
+We suggest the following tags:
+quadratic-forms 6%
+finite-fields 6%
+computational-number-theory 7%
+co.combinatorics 10%
+diophantine-equations 25%
+nt.number-theory 73%
+prime-numbers 12%
+polynomials 52%
+algebraic-number-theory 8%
+analytic-number-theory 17%
+
+True tags used: ['nt.number-theory', 'polynomials', 'algorithms', 'computational-number-theory', 'p-adic-numbers']
+
+Test sample 96
+
+We suggest the following tags:
+galois-theory 4%
+ac.commutative-algebra 4%
+ag.algebraic-geometry 4%
+prime-numbers 12%
+co.combinatorics 8%
+algebraic-number-theory 11%
+finite-groups 8%
+gr.group-theory 15%
+nt.number-theory 63%
+finite-fields 5%
+
+True tags used: ['nt.number-theory', 'analytic-number-theory', 'algebraic-number-theory', 'prime-numbers', 'number-fields']
+
+Test sample 97
+
+We suggest the following tags:
+forcing 5%
+computability-theory 11%
+real-analysis 6%
+reference-request 6%
+descriptive-set-theory 5%
+set-theory 55%
+model-theory 10%
+large-cardinals 7%
+soft-question 7%
+lo.logic 51%
+
+True tags used: ['set-theory', 'lo.logic']
+
+Test sample 98
+
+We suggest the following tags:
+reference-request 4%
+elliptic-curves 4%
+abelian-varieties 4%
+lo.logic 5%
+ac.commutative-algebra 6%
+algebraic-number-theory 16%
+nt.number-theory 45%
+arithmetic-geometry 13%
+galois-theory 8%
+ag.algebraic-geometry 62%
+
+True tags used: ['ag.algebraic-geometry', 'reference-request', 'ac.commutative-algebra']
+
+Test sample 99
+
+We suggest the following tags:
+soft-question 4%
+monoidal-categories 4%
+dg.differential-geometry 5%
+homological-algebra 6%
+reference-request 11%
+mp.mathematical-physics 13%
+fa.functional-analysis 6%
+higher-category-theory 8%
+ct.category-theory 58%
+infinity-categories 9%
+
+True tags used: ['mp.mathematical-physics', 'quantum-field-theory', 'spin-geometry', 'spinor']
